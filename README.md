@@ -22,6 +22,6 @@ If the number is NOT a prime number, it should print "[number] is not a prime nu
 <strong>INSTRUCTIONS</strong>
 
 1. Download and unzip the repository folder.
-2. Open, compile and run the break_continue.py file with Python 3 to see the project.
+2. Open, compile and run the check_for_prime_numbers.py file with Python 3 to see the project.
 
 # Author: Andrés R. Bucheli
